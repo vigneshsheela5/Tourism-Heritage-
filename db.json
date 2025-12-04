@@ -1,0 +1,320 @@
+{
+  "districts": [
+    { "id": 1, "name": "Adilabad" },
+    { "id": 2, "name": "Bhadradri Kothagudem" },
+    { "id": 3, "name": "Hanumakonda" },
+    { "id": 4, "name": "Hyderabad" },
+    { "id": 5, "name": "Jagtial" },
+    { "id": 6, "name": "Jangaon" },
+    { "id": 7, "name": "Jayashankar Bhupalpally" },
+    { "id": 8, "name": "Jogulamba Gadwal" },
+    { "id": 9, "name": "Kamareddy" },
+    { "id": 10, "name": "Karimnagar" },
+    { "id": 11, "name": "Khammam" },
+    { "id": 12, "name": "Kumuram Bheem Asifabad" },
+    { "id": 13, "name": "Mahabubabad" },
+    { "id": 14, "name": "Mahabubnagar" },
+    { "id": 15, "name": "Mancherial" },
+    { "id": 16, "name": "Medak" },
+    { "id": 17, "name": "Medchal Malkajgiri" },
+    { "id": 18, "name": "Mulugu" },
+    { "id": 19, "name": "Nagarkurnool" },
+    { "id": 20, "name": "Nalgonda" },
+    { "id": 21, "name": "Narayanpet" },
+    { "id": 22, "name": "Nirmal" },
+    { "id": 23, "name": "Nizamabad" },
+    { "id": 24, "name": "Peddapalli" },
+    { "id": 25, "name": "Rajanna Sircilla" },
+    { "id": 26, "name": "Ranga Reddy" },
+    { "id": 27, "name": "Sangareddy" },
+    { "id": 28, "name": "Siddipet" },
+    { "id": 29, "name": "Suryapet" },
+    { "id": 30, "name": "Vikarabad" },
+    { "id": 31, "name": "Wanaparthy" },
+    { "id": 32, "name": "Warangal" },
+    { "id": 33, "name": "Yadadri Bhuvanagiri" }
+  ],
+
+  "places": [
+    {
+      "id": 1,
+      "name": "Charminar",
+      "district_id": 4,
+      "description": "Iconic four-minaret monument and busy bazaar area in the heart of Hyderabad.",
+      "image": "https://example.com/images/charminar.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Golconda Fort",
+      "district_id": 4,
+      "description": "Historic fort famous for its acoustics, palaces, and panoramic views of Hyderabad.",
+      "image": "https://example.com/images/golconda_fort.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Chowmahalla Palace",
+      "district_id": 4,
+      "description": "Palace complex of the Nizams with royal courtyards, halls, and heritage collections.",
+      "image": "https://example.com/images/chowmahalla_palace.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Hussain Sagar Lake",
+      "district_id": 17,
+      "description": "Man-made lake with a giant Buddha statue and lakeside entertainment.",
+      "image": "https://example.com/images/hussain_sagar.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Salar Jung Museum",
+      "district_id": 4,
+      "description": "One of the largest museums in India with art, sculptures, and artifacts from across the world.",
+      "image": "https://example.com/images/salar_jung_museum.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Warangal Fort",
+      "district_id": 32,
+      "description": "Ruined fort with massive stone gateways, carved pillars, and Kakatiya-era remains.",
+      "image": "https://example.com/images/warangal_fort.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Thousand Pillar Temple",
+      "district_id": 3,
+      "description": "Kakatiya temple dedicated to Shiva, Vishnu, and Surya, known for its ornate pillars.",
+      "image": "https://example.com/images/thousand_pillar_temple.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Bhadrakali Temple",
+      "district_id": 3,
+      "description": "Ancient hilltop temple of Goddess Bhadrakali overlooking a scenic lake.",
+      "image": "https://example.com/images/bhadrakali_temple.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ramappa Temple",
+      "district_id": 18,
+      "description": "UNESCO World Heritage Kakatiya temple famous for floating bricks and intricate carvings.",
+      "image": "https://example.com/images/ramappa_temple.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Laknavaram Lake",
+      "district_id": 18,
+      "description": "Picturesque lake with a hanging bridge surrounded by forested hills.",
+      "image": "https://example.com/images/laknavaram_lake.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Bhadrachalam Temple",
+      "district_id": 2,
+      "description": "Famous Sri Rama temple on the banks of the Godavari, major pilgrimage center.",
+      "image": "https://example.com/images/bhadrachalam_temple.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Papi Hills View Points",
+      "district_id": 2,
+      "description": "Scenic Godavari river gorge with lush green hills and boat rides.",
+      "image": "https://example.com/images/papi_hills.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Kuntala Waterfalls",
+      "district_id": 1,
+      "description": "Highest waterfall in Telangana, located in dense forest near Adilabad.",
+      "image": "https://example.com/images/kuntala_waterfalls.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Pochera Waterfalls",
+      "district_id": 1,
+      "description": "Wide multi-level waterfall with rocky surroundings and greenery.",
+      "image": "https://example.com/images/pochera_waterfalls.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Basara Saraswathi Temple",
+      "district_id": 22,
+      "description": "Temple of Goddess Saraswathi where children are traditionally initiated into learning.",
+      "image": "https://example.com/images/basara_temple.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Nirmal Fort",
+      "district_id": 22,
+      "description": "Hilltop fort overlooking Nirmal town, associated with local rulers.",
+      "image": "https://example.com/images/nirmal_fort.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Nirmal Toys & Arts Center",
+      "district_id": 22,
+      "description": "Center for traditional Nirmal wooden toys and hand-painted art.",
+      "image": "https://example.com/images/nirmal_toys.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Medak Cathedral",
+      "district_id": 16,
+      "description": "One of the largest churches in Asia with beautiful stained glass windows.",
+      "image": "https://example.com/images/medak_cathedral.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Medak Fort",
+      "district_id": 16,
+      "description": "Fort overlooking Medak town with bastions, gateways, and history.",
+      "image": "https://example.com/images/medak_fort.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Pocharam Wildlife Sanctuary",
+      "district_id": 16,
+      "description": "Sanctuary around a lake, home to birds and small animals.",
+      "image": "https://example.com/images/pocharam_sanctuary.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Yadadri Sri Lakshmi Narasimha Temple",
+      "district_id": 33,
+      "description": "Hilltop Narasimha temple redeveloped into a grand spiritual complex.",
+      "image": "https://example.com/images/yadadri_temple.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Bhongir Fort",
+      "district_id": 33,
+      "description": "Monolithic hill fort with a long ramp and panoramic views.",
+      "image": "https://example.com/images/bhongir_fort.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Nagarjuna Sagar Dam View Point",
+      "district_id": 20,
+      "description": "Massive dam on the Krishna river with viewpoints and boating facilities.",
+      "image": "https://example.com/images/nagarjuna_sagar.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Buddhavanam Project",
+      "district_id": 20,
+      "description": "Buddhist theme park showcasing stupas, sculptures and Buddhist heritage.",
+      "image": "https://example.com/images/buddhavanam.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Nalgonda Hill Fort Area",
+      "district_id": 20,
+      "description": "Remains of old fort structures with views over Nalgonda.",
+      "image": "https://example.com/images/nalgonda_fort.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Koilkonda Fort",
+      "district_id": 14,
+      "description": "Hill fort in Mahabubnagar district with trekking trail and gateways.",
+      "image": "https://example.com/images/koilkonda_fort.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Pillalamarri Banyan Tree",
+      "district_id": 14,
+      "description": "Huge centuries-old banyan tree spreading over several acres.",
+      "image": "https://example.com/images/pillalamarri.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Jurala Project Backwaters",
+      "district_id": 14,
+      "description": "Reservoir with scenic backwaters and small islands.",
+      "image": "https://example.com/images/jurala_project.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Ananthagiri Hills",
+      "district_id": 30,
+      "description": "Hill station near Vikarabad with forest trails and viewpoints.",
+      "image": "https://example.com/images/ananthagiri_hills.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Kotepally Reservoir",
+      "district_id": 30,
+      "description": "Reservoir popular for kayaking and camping near Hyderabad.",
+      "image": "https://example.com/images/kotepally_reservoir.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Khammam Fort",
+      "district_id": 11,
+      "description": "Fort built on a hillock overlooking Khammam town.",
+      "image": "https://example.com/images/khammam_fort.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Nelakondapalli Buddhist Site",
+      "district_id": 11,
+      "description": "Archaeological site with Buddhist stupas and ancient remains.",
+      "image": "https://example.com/images/nelakondapalli.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Kaleshwaram Mukteshwara Temple",
+      "district_id": 7,
+      "description": "Famous Shiva temple located at the confluence of two rivers.",
+      "image": "https://example.com/images/kaleshwaram_temple.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Eturnagaram Wildlife Sanctuary",
+      "district_id": 18,
+      "description": "Protected forest along the Godavari with wildlife and tribal hamlets.",
+      "image": "https://example.com/images/eturnagaram_sanctuary.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Gadwal Fort",
+      "district_id": 8,
+      "description": "Historic fort and palace complex of local rulers in Gadwal.",
+      "image": "https://example.com/images/gadwal_fort.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Jogulamba Temple",
+      "district_id": 8,
+      "description": "Powerful Shakti Peetha temple of Goddess Jogulamba.",
+      "image": "https://example.com/images/jogulamba_temple.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Domakonda Fort",
+      "district_id": 9,
+      "description": "Fortified complex with palace structures and village surroundings.",
+      "image": "https://example.com/images/domakonda_fort.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Sircilla Textile Town View",
+      "district_id": 25,
+      "description": "Town known for textile and power-loom industry, showing living craft heritage.",
+      "image": "https://example.com/images/sircilla_textile.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Nagarkurnool Forest Drives",
+      "district_id": 19,
+      "description": "Rustic forest and countryside drives towards Nallamala region.",
+      "image": "https://example.com/images/nagarkurnool_forest.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Wanaparthy Palace",
+      "district_id": 31,
+      "description": "Old palace building of the Wanaparthy Samsthan showcasing local royal heritage.",
+      "image": "https://example.com/images/wanaparthy_palace.jpg"
+    }
+  ]
+}
