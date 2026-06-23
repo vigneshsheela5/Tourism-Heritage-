@@ -147,28 +147,3 @@ Add authentication using JWT
 Deploy API to Render / Railway
 
 Add admin panel for data entry
-
-📝 Conclusion
-
-This backend project demonstrates practical experience with:
-
-REST API development
-
-Python FastAPI framework
-
-API testing
-
-Service-driven architecture
-
-Working with mock JSON databases
-
-It forms a solid foundation for a Tourism Information System.
-
-If you want, I can also generate:
-
-📌 Full 30–40 page Internship Report (PDF)
-📌 PowerPoint Presentation
-📌 UML / Flow Diagram
-📌 Sample Test Cases
-
-Just ask!
